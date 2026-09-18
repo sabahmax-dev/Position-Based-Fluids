@@ -40,6 +40,8 @@ If your computer does not have a GPU, please change line 15 in `main.py` to `ti.
 ```
 python main.py
 ```
+During the simulation, press `SPACE` to pause or resume and `ESCAPE` to exit.
+
 ### Rendering
 To prepare for rendering, follow these steps within the `main.py` file initially:
 
@@ -60,4 +62,4 @@ Afterward, execute `python blender_render.py` to commence image rendering. Pleas
 
 [5] Taichi PBF 2D Example by Ye Kuang: https://github.com/taichi-dev/taichi/blob/master/python/taichi/examples/simulation/pbf2d.py 
 
-[6] SPlisHSPlasH Library for Diffuse Particles Synthesis: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH 
+[6] SPlisHSPlasH Library for Diffuse Particles Synthesis: https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
